@@ -12,18 +12,18 @@ body {
   font-family: "Helvetica", sans-serif;
 }
 
-.RACE{
-margin-bottom: 18%;
+.Race{
+  margin-bottom: 15%;
 }
-
-.RACE button{
-font-size: 40px;
-background-color: aquamarine;
+.abc{
+font-size: 1.8vw;
+background-color: rgb(208, 248, 234);
 border-style: none;
 border-radius: 7px;
 box-shadow: 10px 10px 5px lightblue;
 padding: 10px;
 text-shadow: 0 0 1px #FF0000;
+text-transform: uppercase;
 }
 img {
   max-width: 100%;
